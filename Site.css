@@ -1,0 +1,35 @@
+﻿body 
+{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    padding-left : 15%;
+    padding-right : 15%;    
+    background: url("Images/BGimage2.png") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+
+.jumbotron {
+    padding: 30px !important;
+    background-color: rgba(95, 158, 160, 0.7) !important;
+    border: 1px solid rgba(95, 158, 160, 0.7);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -o-border-radius: 10px;
+    color: black;
+}
+
+#RequiredFieldValidator2{
+    font-size: 1.5em !important;
+    font-weight: bold !important;
+}
+#RequiredFieldValidator1{
+    font-size: 1.5em !important;
+    font-weight: bold !important;
+}
